@@ -24,14 +24,8 @@ const razzolim = {
   techCommunities: {
     speaker: "Portuguese/English",
     workExperiences: [
-      {
-        companyName: "FAEL",
-        role: "System Analyst"
-      },
-      {
-      companyName: "FH",
-      role:"ApplicationDeveloper"
-      }
+      {companyName: "FAEL", role: "System Analyst"},
+      {companyName: "FH", role: "ApplicationDeveloper"}
     ]
   }
 };
