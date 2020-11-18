@@ -25,7 +25,7 @@ const razzolim = {
     speaker: "Portuguese/English",
     workExperiences: [
       {companyName: "FAEL", role: "System Analyst"},
-      {companyName: "FH", role: "ApplicationDeveloper"}
+      {companyName: "FH", role: "Application Developer"}
     ]
   }
 };
