@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> I'm Renan Azzolim! <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></h2>
+<h2> I'm Renan Azzolim! <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="90"></h2>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 <p><em>Application Developer at <a href="https://www.fh.com.br/">FH </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
