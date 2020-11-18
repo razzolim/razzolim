@@ -15,8 +15,8 @@
 const razzolim = {
   code: [Java, Javascript, Typescript],
   databases: [SQLServer, PostgreSQL, MySQL, MongoDB],
-  tools: [Spring, Node, Jira, Bamboo],
-  architecture: ["microservices", "design-patterns", "behavior-driven-development", "test-driven-development"],
+  tools: [Spring, Node, Postman, Jira, Bamboo, Docker],
+  architecture: ["microservices", "design-patterns", "test-driven-development"],
   achivments: [
     {name: "Oracle Certified Associate 8"},
     {name: "Scrum Fundamentals Certified"}
