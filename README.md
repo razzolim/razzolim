@@ -13,10 +13,14 @@
 
 ```javascript
 const razzolim = {
-  code: [Java, Javascript, Typescript, HTML, CSS],
+  code: [Java, Javascript, Typescript],
   databases: [SQLServer, PostgreSQL, MySQL, MongoDB],
   tools: [Spring, Node, Jira, Bamboo],
   architecture: ["microservices", "design-patterns", "behavior-driven-development", "test-driven-development"],
+  achivments: [
+    {name: "Oracle Certified Associate 8"},
+    {name: "Scrum Fundamentals Certified"}
+  ],
   techCommunities: {
     speaker: "Portuguese/English",
     workExperiences: [
@@ -30,7 +34,7 @@ const razzolim = {
       }
     ]
   }
-}
+};
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
