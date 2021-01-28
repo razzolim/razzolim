@@ -15,10 +15,11 @@
 const razzolim = {
   code: [Java, Javascript, Typescript],
   databases: [SQLServer, PostgreSQL, MySQL, MongoDB],
-  tools: [Spring, Node, Postman, Jira, Bamboo, Docker],
+  tools: [Spring, JUnit, Node, Postman, Jira, Bamboo, Docker],
   architecture: [
-    "microservices",
     "design-patterns",
+    "SOLID",
+    "microservices",
     "test-driven-development",
     "behavior-driven-development"
   ],
