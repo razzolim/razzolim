@@ -15,7 +15,7 @@
 const razzolim = {
   code: [Java, Javascript, Typescript],
   databases: [SQLServer, PostgreSQL, MySQL, MongoDB],
-  tools: [Spring, JUnit, Node, Postman, Jira, Bamboo, Docker],
+  tools: [Spring, Hibernate, JPA, JUnit, Node, Postman, Jira, Bamboo, Docker],
   architecture: [
     "design-patterns",
     "SOLID",
