@@ -13,9 +13,9 @@
 
 ```javascript
 const razzolim = {
-  code: [Java, Javascript, Typescript],
-  databases: [SQLServer, PostgreSQL, MySQL, MongoDB],
-  tools: [Spring, Hibernate, JPA, JUnit, Mockito, Node, Postman, Jira, Bamboo, Docker],
+  code: ["Java", "Javascript", "Typescript"],
+  databases: ["SQLServer", "PostgreSQL", "MySQL", "MongoDB"],
+  knowledge: ["Spring", "Hibernate", "JPA", "JUnit", "Mockito", "Node", "Postman", "Jira", "Bamboo", "Docker", "Angular 6+", "CircleCI"],
   architecture: [
     "design-patterns",
     "SOLID",
