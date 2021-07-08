@@ -33,8 +33,8 @@ const razzolim = {
   techCommunities: {
     speaker: "Portuguese/English",
     workExperiences: [
-      {companyName: "Accenture": "Application Development Analyst"},
-      {companyName: "Wipro Limited": "Software Developer"},
+      {companyName: "Accenture":, role: "Application Development Analyst"},
+      {companyName: "Wipro Limited", role: "Software Developer"},
       {companyName: "FH", role: "Application Developer"},
       {companyName: "FAEL", role: "System Analyst"}
     ]
