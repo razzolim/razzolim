@@ -27,7 +27,7 @@ const razzolim = {
     "behavior-driven-development"
   ],
   achievements: [
-    {name: "Oracle Certified Associate 8"},
+    {name: "Oracle Certified Associate Java SE 8"},
     {name: "Scrum Fundamentals Certified"}
   ],
   techCommunities: {
