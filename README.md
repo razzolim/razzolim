@@ -6,7 +6,7 @@
 </em></p>
 
 
-[![Linkedin: Renan Azzolim](https://img.shields.io/badge/-Renan%20Azzolim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-azzolim-3307bb85/)](www.linkedin.com/in/renan-azzolim)
+[![Linkedin: Renan Azzolim](https://img.shields.io/badge/-Renan%20Azzolim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/renan-azzolim)](www.linkedin.com/in/renan-azzolim)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
